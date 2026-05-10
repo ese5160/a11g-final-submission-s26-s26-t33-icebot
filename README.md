@@ -4,7 +4,7 @@
 
 **Team Name:** ICEBOT
 
-**GitHub Repository URL: [https://github.com/ese5160/final-project-firmware-s26-t33-icebot.git](https://github.com/ese5160/final-project-firmware-s26-t33-icebot.git)**
+**GitHub Repository URL: [https://github.com/ese5160/a11g-final-submission-s26-s26-t33-icebot.git](https://github.com/ese5160/a11g-final-submission-s26-s26-t33-icebot.git)**
 
 | Team Member Name | Email Address          | GitHub Handle  |
 | ---------------- | ---------------------- | -------------- |
