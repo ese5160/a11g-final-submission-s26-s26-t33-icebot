@@ -86,3 +86,5 @@ Your final project, including any casework or interfacing elements that make up 
 ## 5. Codebase
 
 [https://github.com/ese5160/final-project-firmware-s26-t33-icebot.git](https://github.com/ese5160/final-project-firmware-s26-t33-icebot.git)
+
+I used ai to help me understand how to finish the project and to assist in writing the program.
